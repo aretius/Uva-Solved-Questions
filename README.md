@@ -1,2 +1,2 @@
 # Uva-Solved-Questions
-This contains my codes for solved uva questions
+My solutions in C++ to some of the Uva Online Judge questions.
