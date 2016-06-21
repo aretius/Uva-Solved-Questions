@@ -26,7 +26,7 @@ int main()
 	// cin.tie(0);
 	// freopen("input.txt","r",stdin);
 	// freopen("output.txt","w",stdout);
-	vvi.resize(200);
+	vvi.resize(123);		// Refer to ascii table
 	cin>>a;
 	for(long long int i=0;i<a.length();i++)
 	{
